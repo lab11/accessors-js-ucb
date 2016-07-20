@@ -1,5 +1,5 @@
 {
-  "name": "accessors",
+  "name": "accessors-js-ucb",
   "version": "1.0.0",
   "description": "Actor-oriented proxies for IoT",
   "main": "common/commonHost.js",
